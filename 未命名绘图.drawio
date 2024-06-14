@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T08:10:14.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0oA-3r3thbuTyoWhqiXl" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T08:10:37.459Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3ng6pLHlpF5nSvOVlGZN" version="24.5.2" type="github">
   <diagram name="第 1 页" id="Z4ITSrSQIr3gGmsO1aMu">
     <mxGraphModel dx="788" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,6 +133,18 @@
         </mxCell>
         <mxCell id="4CJ6EeusNSlKQL4BJ9W--38" value="Backend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="244" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CJ6EeusNSlKQL4BJ9W--41" value="Presentation Layer" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="658.5" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CJ6EeusNSlKQL4BJ9W--42" value="Business Layer" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="708.5" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CJ6EeusNSlKQL4BJ9W--43" value="Service Layer" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="758.5" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CJ6EeusNSlKQL4BJ9W--44" value="Persistence Layer" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="808.5" width="136" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
